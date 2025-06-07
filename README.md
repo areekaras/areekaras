@@ -1,6 +1,7 @@
-[![MasterHead](https://images.pexels.com/photos/58420/pexels-photo-58420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://www.linkedin.com/in/shibiliareekara/)
+
+
 <h1 align="center">Hi 👋, I'm Shibili</h1>
-<h3 align="center">I work on cool iOS projects</h3>
+<h3 align="center">Senior iOS Engineer | Aspiring AI-Assisted Full-Stack Developer</h3>
 
 <img align="center" alt="Coding" width="400" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5465b81a5a66744c1f6de_webdevelopercoding-thumbnail.gif">
 
@@ -8,56 +9,85 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areekaras" alt="areekaras" /></a> </p>
 
-[comment]: <> (<p align="left"> <a href="https://twitter.com/zerocooldude" target="blank"><img src="https://img.shields.io/twitter/follow/zerocooldude?logo=twitter&style=for-the-badge" alt="zerocooldude" /></a> </p> )
+---
 
-[comment]: <> (- 🔭 I’m currently working at **Cognizant Technology Solutions** as an iOS developer)
+👋 **Welcome to my GitHub!**
 
-- 🌱 I’m currently specializing in **Modular design, clean architecture, TDD**
+I'm a **Senior iOS Engineer with 8+ years of experience**  in building scalable, modular iOS applications. My expertise lies in **Modular Design, Clean Architecture, and Test-Driven Development (TDD)**.
 
-- 💬 Ask me about **Swift and iOS related stuff**
+I'm currently on an exciting journey, actively transitioning into an **AI-assisted Full-Stack Developer**. This profile showcases my ongoing exploration into new technologies and my commitment to continuous learning.
 
-- 📫 How to reach me **shibilyareekara@gmail.com**
+---
 
-[comment]: <> (- ⚡ Fun fact **I think I am just sarcastic because my pea sized brain thinks it would be the best defencive mechanism. HAIL CHANDLER**)
+### 🌱 What I'm Currently Building & Learning
 
-<h3 align="left">Connect with me:</h3>
+-   **Cross-Platform Personal Management System (PMS):** Actively developing a personal management app across iOS, iPadOS, and macOS. This project is my proving ground for mastering **advanced SwiftUI and full-stack integration with Supabase**, utilizing Google Authentication for a seamless user experience.
+-   **Exploring AI Integration:** Leveraging AI as a co-pilot to optimize development workflows and explore innovative solutions in full-stack development.
+-   **Deepening expertise in:** SwiftUI, Supabase, and modern web technologies.
+
+### 💡 Ask Me About
+
+-   **iOS Development:** Swift, UIKit, SwiftUI, Core Data, Realm, XCTest 
+-   **Architectural Patterns:** Modular Design, Clean Architecture, VIP, MVVM, MVP, TDD, OOP 
+-   **Development Methodologies:** Agile/Scrum, CI/CD pipelines (Jenkins, Bitrise, Fastlane) 
+-   **Full-Stack Concepts:** My journey into Supabase and backend integration.
+
+---
+
+### 💻 My Technical Arsenal
+
+Here are some of the technologies and tools I work with:
+
+**Languages & Frameworks:**
 <p align="left">
-<!--
-<a href="https://twitter.com/zerocooldude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zerocooldude" height="30" width="40" /></a>
--->
-
-<a href="https://www.linkedin.com/in/shibiliareekara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibiliareekara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shibili.areekara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibili.areekara" height="30" width="40" /></a>
-
-<!--
-<a href="https://www.youtube.com/c/ucqd2hzjuys6espsnlz1cwxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucqd2hzjuys6espsnlz1cwxg" height="30" width="40" /></a>
--->
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" alt="SwiftUI" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/UIKit-FD3800?style=flat&logo=apple&logoColor=white" alt="UIKit" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="auto" height="40"/>
 </p>
 
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+**Databases & Backend:**
+<p align="left">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Core%20Data-007AFF?style=flat&logo=apple&logoColor=white" alt="Core Data" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Realm-3C38F7?style=flat&logo=realm&logoColor=white" alt="Realm" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" width="auto" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmabi1993&show_icons=true&locale=en&layout=compact" alt="pmabi1993" /></p>
+**Tools & Methodologies:**
+<p align="left">
+    <img src="https://img.shields.io/badge/Xcode-007AFF?style=flat&logo=xcode&logoColor=white" alt="Xcode" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Bitrise-450F78?style=flat&logo=bitrise&logoColor=white" alt="Bitrise" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Fastlane-191970?style=flat&logo=fastlane&logoColor=white" alt="Fastlane" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/SonarQube-0071C2?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/Agile%2FScrum-000000?style=flat&logo=scrumalliance&logoColor=white" alt="Agile/Scrum" width="auto" height="40"/>
+    <img src="https://img.shields.io/badge/TDD-000000?style=flat&logo=testinglibrary&logoColor=white" alt="TDD" width="auto" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmabi1993&show_icons=true&locale=en" alt="pmabi1993" /></p>
--->
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areekaras" alt="areekaras" /></p>
+### 📝 Check out my Journey & Insights on my Blog!
 
+I document my learnings, challenges, and solutions on my personal blog as I evolve into an AI-assisted full-stack developer. It's a blend of deep-dive technical solutions and the candid process of learning new things.
 
-<!--
-**areekaras/areekaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 **Visit my blog here: [shibiliareekara.com](https://shibiliareekara.com)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=areekaras&show_icons=true&locale=en" alt="areekaras stats" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=areekaras" alt="areekaras streak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=areekaras&show_icons=true&locale=en&layout=compact" alt="areekaras top languages" /></p>
+
+---
+
+### 🤝 Connect with me:
+
+- **Email:** shibilyareekara@gmail.com 
+- **LinkedIn:** [linkedin.com/in/shibiliareekara](https://www.linkedin.com/in/shibiliareekara/) 
+- **Personal Website:** [shibiliareekara.com](https://shibiliareekara.com)
