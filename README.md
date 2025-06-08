@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shibili</h1>
-<h3 align="center">Senior iOS Engineer | Aspiring AI-Assisted Full-Stack Developer</h3>
+<h3 align="center">Senior iOS Engineer (8+ YOE) | Aspiring AI-Assisted Full-Stack Developer</h3>
 
 <img align="center" alt="Coding" width="400" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5465b81a5a66744c1f6de_webdevelopercoding-thumbnail.gif">
 
