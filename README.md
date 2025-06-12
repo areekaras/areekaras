@@ -89,6 +89,6 @@ I document my learnings, challenges, and solutions on my personal blog as I evol
 
 ### 🤝 Connect with me:
 
-📧 **Email:** hello@shibiliareekara.com 
-🧿 **LinkedIn:** [linkedin.com/in/shibiliareekara](https://www.linkedin.com/in/shibiliareekara/) 
-✍🏻 **Personal Website:** [shibiliareekara.com](https://shibiliareekara.com)
+- 📧 **Email:** hello@shibiliareekara.com 
+- 🧿 **LinkedIn:** [linkedin.com/in/shibiliareekara](https://www.linkedin.com/in/shibiliareekara/) 
+- ✍🏻 **Personal Website:** [shibiliareekara.com](https://shibiliareekara.com)
