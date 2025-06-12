@@ -82,12 +82,13 @@ I document my learnings, challenges, and solutions on my personal blog as I evol
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=areekaras&show_icons=true&locale=en" alt="areekaras stats" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=areekaras" alt="areekaras streak" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=areekaras&show_icons=true&locale=en&layout=compact" alt="areekaras top languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areekaras&show_icons=true&locale=en&layout=compact" alt="areekaras top languages" /></p>
 
 ---
 
+
 ### 🤝 Connect with me:
 
-- **Email:** shibilyareekara@gmail.com 
+- **Email:** hello@shibiliareekara.com 
 - **LinkedIn:** [linkedin.com/in/shibiliareekara](https://www.linkedin.com/in/shibiliareekara/) 
 - **Personal Website:** [shibiliareekara.com](https://shibiliareekara.com)
